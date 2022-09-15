@@ -34,7 +34,7 @@ global.sig = 'https://instagram.com/_kadungsayang1923'
 global.sgh = '-' //github
 global.sgc = 'https://chat.whatsapp.com/Iu9I1k8FnXW1sXT41XIF50' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = 'https://youtu.be/7X_PZd5AwtU' // my youtube channel
 
 /*============== PAYMENT ==============*/
 global.pdana = '082127487538' //dana
@@ -59,9 +59,9 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 /*============== STAFF ==============*/
 global.owner = [
   ['6281358542914', 'RINO-APRILEKA', true],
-  ['6281358542914', 'WH-MODS-BOT-V1', true],
-  ['6281358542914', 'WH-MODS-BOT-V2', true],
-  ['79917357842', 'WH-MODS-BOT-V3', true] //Ganti jd nomormu sama Namamu
+  ['6281358542914', 'RINO-APRILEKA', true],
+  ['6281358542914', 'RINO-APRILEKA', true],
+  ['79917357842', 'RINO-APRILEKA', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm = '                「 RINO-APRILEKA 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘RINO-APRILEKA ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ RINO-APRILEKA '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By RINO-APRILEKA`
+global.author = '                「 RINO-APRILEKA  あ」'
 
 
 /*============== LOGO ==============*/
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = 'RINO-APRILEKA'
+global.stickauth = `By ©RINO-APRILEKA`
 
 global.multiplier = 38 // The higher, The harder levelup
 
